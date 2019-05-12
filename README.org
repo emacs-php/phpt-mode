@@ -1,0 +1,5 @@
+* Emacs phpt-mode
+This package provides major mode for editing [[http://qa.php.net/phpt_details.php][PHPT File format]].
+
+Files of this format are used as test code for [[https://github.com/php/php-src][the PHP interpreter]].
+Also, a subset of this format is included in [[https://phpunit.de/][PHPUnit]].
