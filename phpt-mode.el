@@ -62,7 +62,7 @@
 (define-innermode phpt-php-innermode
   :mode 'php-mode
   :head-matcher "^--\\(?:FILE\\|SKIPIF\\)--\n"
-  :tail-matcher "\\?>\n--"
+  :tail-matcher "\\?>"
   :head-mode 'host
   :tail-mode 'host)
 
